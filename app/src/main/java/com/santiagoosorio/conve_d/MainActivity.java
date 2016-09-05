@@ -48,13 +48,13 @@ public class MainActivity extends AppCompatActivity {
             case R.id.rbdp:
                 if (checked)
                     ban=1;
-                    // Pirates are the best
-                    break;
+                // Pirates are the best
+                break;
             case R.id.rbpd:
                 if (checked)
                     ban=2;
-                    // Ninjas rule
-                    break;
+                // Ninjas rule
+                break;
         }
     }
 
